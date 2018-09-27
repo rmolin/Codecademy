@@ -1,4 +1,5 @@
-const input = 'Hi human, me likes to eat fish';
+let input = 'Hi human, me likes to eat fish';
+input = input.toLowerCase();
 const vowels = ['a', 'e', 'i', 'o', 'u'];
 let = resultArray = [];
 
